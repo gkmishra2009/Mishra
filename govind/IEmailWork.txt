@@ -1,0 +1,7 @@
+
+//Use of interface
+interface IEmailWork
+{
+    void SendEmail(string toEmail)
+    
+}
